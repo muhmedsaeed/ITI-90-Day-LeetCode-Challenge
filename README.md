@@ -15,12 +15,16 @@
 
 ## 📋 Table of Contents
 
-- [About](#-about)
-- [Leaderboard](#-leaderboard)
-- [Weekly Schedule](#-weekly-schedule)
-- [How to Contribute](#-how-to-contribute)
-- [Resources](#-resources)
-- [Contributors](#-contributors)
+- [🚀 ITI 90-Day LeetCode Challenge (Intake 46)](#-iti-90-day-leetcode-challenge-intake-46)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [🎯 About](#-about)
+  - [🏆 Leaderboard](#-leaderboard)
+  - [📁 Weekly Schedule](#-weekly-schedule)
+  - [🛠️ How to Contribute](#️-how-to-contribute)
+    - [Quick Steps](#quick-steps)
+  - [📚 Resources](#-resources)
+  - [💬 Daily Discussion](#-daily-discussion)
+  - [👥 Contributors](#-contributors)
 
 ---
 
@@ -49,7 +53,7 @@ This repo powers the **ITI 90-Day LeetCode Challenge (Intake 46)** for ITI train
 
 | 📅 Weeks Active | 🧩 Total Solutions | 👥 Active Contributors |
 | :---: | :---: | :---: |
-| 2 / 13 | 119 | 10 |
+| 3 / 13 | 185 | 10 |
 
 <!-- STATS_END -->
 
@@ -57,16 +61,16 @@ This repo powers the **ITI 90-Day LeetCode Challenge (Intake 46)** for ITI train
 
 | Rank | Participant | Problems Solved | Total Solutions (Including Multi-language) |
 | :---: | :---: | :---: | :---: |
-| 🥇 | **Ashraf** | 18 | 21 |
-| 🥈 | **Mamdouh** | 18 | 20 |
-| 🥉 | **Assem** | 16 | 19 |
-| `4` | **Mohamedsaeed** | 14 | 14 |
-| `5` | **Shalaby** | 13 | 13 |
-| `6` | **Kareem** | 12 | 12 |
-| `7` | **Hend** | 10 | 10 |
-| `8` | **Mahmoudenany** | 4 | 4 |
-| `9` | **Eslam** | 4 | 4 |
-| `10` | **Youssef** | 2 | 2 |
+| 🥇 | **Ashraf** | 30 | 33 |
+| 🥈 | **Mohamedsaeed** | 26 | 28 |
+| 🥉 | **Assem** | 23 | 27 |
+| `4` | **Hend** | 22 | 22 |
+| `5` | **Shalaby** | 21 | 21 |
+| `6` | **Mamdouh** | 20 | 23 |
+| `7` | **Kareem** | 20 | 20 |
+| `8` | **Eslam** | 4 | 4 |
+| `9` | **Mahmoudenany** | 4 | 4 |
+| `10` | **Youssef** | 3 | 3 |
 
 <!-- LEADERBOARD_END -->
 
